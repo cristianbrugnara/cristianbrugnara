@@ -1,3 +1,5 @@
+
+Cristian Brugnara
 🤝 I’m currently enrolled in a bachelor's in Data Science & AI at SUPSI.<br>🔭 I’m interested in comprehending and working with state-of-the-art models and methods such as LLMs and deep neural networks.<br>💬 I like learning new things and understanding how processes work.<br>⚡ I am passionate about the world of math and AI.
 
 
