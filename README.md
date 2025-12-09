@@ -1,9 +1,6 @@
 
 Cristian Brugnara
 
-🤝 I’m currently enrolled in a Master's in Data Science at SUPSI.<br>🔭 I’m interested in comprehending and working with state-of-the-art models and methods such as LLMs and deep neural networks.<br>💬 I like learning new things and understanding how processes work.<br>⚡ I am passionate about the world of math and AI.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-brugnara-98a95825a) 
 
