@@ -2,6 +2,7 @@
 # Cristian Brugnara
 
 Researcher in the LEON group at IDSIA USI-SUPSI, working on machine learning, optimization, and control for engineering systems.
+MSc student in Engineering and Data Science at SUPSI.
 
 Interested in probabilistic modeling and dynamical systems.
 
